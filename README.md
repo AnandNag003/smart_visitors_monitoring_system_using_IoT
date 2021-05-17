@@ -1,0 +1,2 @@
+# smart_visitors_monitoring_system_using_IoT
+The summary of this project is to notify the owner about unauthorized person’s entry, where IR sensors are used to get the information about person’s entry and exit and update this information  to IoT platform (Thing-speak) using ESP01 wi-fi module. It is also designed to send alert message  to owner in absence of owner. Here Arduino UNO is used as control unit. 
